@@ -72,7 +72,7 @@ We welcome contributions to improve the Startup Recommendation System. Please fo
 
 ## Contact
 
-For any questions or feedback, please contact [yourname] at [muhammadtalhaawan801@gmail.com].
+For any questions or feedback, please contact [Muhammad Talha] at [muhammadtalhaawan801@gmail.com].
 
 ---
 
