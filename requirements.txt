@@ -1,0 +1,8 @@
+langchain-astradb
+langchain-core
+langchain_ai21
+sentence_transformers 
+python-dotenv
+flask
+
+-e .
